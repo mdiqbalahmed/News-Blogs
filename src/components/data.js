@@ -7,9 +7,9 @@ export const blogList = [
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
     authorName: 'John Doe',
-    authorAvatar: '/public/public/assets/images/author.jpg',
+    authorAvatar: 'https://i.ibb.co/t3rHp4N/author.jpg',
     createdAt: 'June 03, 2021',
-    cover: '/public/public/assets/images/designer-1.jpg',
+    cover: 'https://i.ibb.co/sWbbGmc/designer-1.jpg',
   },
   {
     id: 2,
@@ -19,9 +19,9 @@ export const blogList = [
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
     authorName: 'John Doe',
-    authorAvatar: '/public/public/assets/images/author.jpg',
+    authorAvatar: 'https://i.ibb.co/t3rHp4N/author.jpg',
     createdAt: 'June 03, 2021',
-    cover: '/public/public/assets/images/f67396fc3cfce63a28e07ebb35d974ac.jpg',
+    cover: 'https://i.ibb.co/vPbPkFy/f67396fc3cfce63a28e07ebb35d974ac.jpg',
   },
   {
     id: 3,
@@ -31,9 +31,9 @@ export const blogList = [
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
     authorName: 'John Doe',
-    authorAvatar: '/public/public/assets/images/author.jpg',
+    authorAvatar: 'https://i.ibb.co/t3rHp4N/author.jpg',
     createdAt: 'June 03, 2021',
-    cover: '/public/public/assets/images/fQwuyKJ9qxjSbr6REcgtmW-1200-80.jpg',
+    cover: 'https://i.ibb.co/LgWLWsz/f-Qwuy-KJ9qxj-Sbr6-REcgtm-W-1200-80.jpg',
   },
   {
     id: 4,
@@ -43,9 +43,9 @@ export const blogList = [
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
     authorName: 'John Doe',
-    authorAvatar: '/public/public/assets/images/author.jpg',
+    authorAvatar: 'https://i.ibb.co/t3rHp4N/author.jpg',
     createdAt: 'June 03, 2021',
-    cover: '/public/public/assets/images/graphic-design-trends.png',
+    cover: 'https://i.ibb.co/j3NtsBY/graphic-design-trends.png',
   },
   {
     id: 5,
@@ -55,9 +55,9 @@ export const blogList = [
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
     authorName: 'John Doe',
-    authorAvatar: '/public/public/assets/images/author.jpg',
+    authorAvatar: 'https://i.ibb.co/t3rHp4N/author.jpg',
     createdAt: 'June 03, 2021',
-    cover: '/public/public/assets/images/make-it-personal.jpg',
+    cover: 'https://i.ibb.co/cXKRpKh/make-it-personal.jpg',
   },
   {
     id: 6,
@@ -67,10 +67,10 @@ export const blogList = [
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
     authorName: 'John Doe',
-    authorAvatar: '/public/public/assets/images/author.jpg',
+    authorAvatar: 'https://i.ibb.co/t3rHp4N/author.jpg',
     createdAt: 'June 03, 2021',
     cover:
-      '/public/public/assets/images/Purple-Combination-colors-graphic-design-predictions-1024x576-1024x576.jpg',
+      'https://i.ibb.co/59Dj3Td/Purple-Combination-colors-graphic-design-predictions-1024x576-1024x576.jpg',
   },
   {
     id: 7,
@@ -80,8 +80,8 @@ export const blogList = [
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
     authorName: 'John Doe',
-    authorAvatar: '/public/public/assets/images/author.jpg',
+    authorAvatar: 'https://i.ibb.co/t3rHp4N/author.jpg',
     createdAt: 'June 03, 2021',
-    cover: '/public/public/assets/images/Synthwave-Postmodern.jpg',
+    cover: 'https://i.ibb.co/XfBv8xs/Synthwave-Postmodern.jpg',
   },
 ];
