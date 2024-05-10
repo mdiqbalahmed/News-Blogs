@@ -27,8 +27,8 @@ export const Header = () => {
       <li><a>Blogs</a></li>
     </ul>
   </div>
-  <div className="navbar-end">
-    <a className="btn">Button</a>
+  <div className="navbar-end p-4">
+  <img className=' h-12 w-fit' src="https://i.ibb.co/KznDM4Y/newsblog-logo.jpg" alt="" />
   </div>
 </div>
     
